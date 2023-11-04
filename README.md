@@ -16,9 +16,13 @@ Algo que facilita bastante el trabajo en dockers es el poder compartir de forma 
 
 # Conclusion
 
+Usar dockers puede resultar bastante complicado, sobnre todo cuando no se tiene demasaiada experiencia trabajando en esta clase de sistemas, pero tambien son herramientas muy poderosas que pueden servir para poder facilitarnos la vida a la hora de experimentar con nuevos programaas, o para transferir informacion y trabajar en equipo. O en mi caso personal con airflow y apache que me permitio el usarlos de una form amucho mas sencilla y sin tener que complicarme con ubuntu.
+
+Aun asi aun me falta mucho por aprender relacionado a los dockers, sobre todo a la hora de conectar bases de datos y similares. Përo eso solo es otro espacio donde aun puedo aprender
+
 Quiza lo unico malo que puedo encontrarle al sistema de docker, es lo avasallante que puede resultar por lo abierto del sistema, aunque en parte esto tambien es un fuerte que permite trabajar docker de la forma que sea mas conveniente para el usuario, aunque se agradeceria un mayor nivel de apoyo en los tutoriales que hay por internet, o explicaciones mas completas.
 
 # notas
-Debido a ciertas complicaciones con la base de datos, mayormente a que no pude conectarla y no encontre solucion a los problemas que tenia, decidi exportarla como un archivo aparte de nombre "medieval". No importa tanto el sistema en el que se monte, solo que sea un localgost, y quiza adaptar la contraseña de usuario
+Debido a ciertas complicaciones con la base de datos, mayormente a que no pude conectarla y no encontre solucion a los problemas que tenia, decidi exportarla como un archivo aparte de nombre "medieval". No importa tanto el sistema en el que se monte, solo que sea un localhost, y quiza adaptar la contraseña de usuario
 
 Aqui est el link de la imagen de docker https://hub.docker.com/r/alejandro048/nodocrud
